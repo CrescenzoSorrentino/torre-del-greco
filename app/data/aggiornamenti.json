@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "titolo": "Tornano le strisce blu in dieci strade del centro",
+    "categoria": "strisce blu",
+    "zona": "10 strade del centro",
+    "lat": 40.7958,
+    "lng": 14.3605,
+    "descrizione": "Sosta a pagamento riattivata in via Aldo Moro, via Mazzini, via Calastro, via e piazzale Cesare Battisti, via Monsignor Michele Sasso, Circumvallazione, via e rampa Comizi, corso Avezzana, Martiri d'Africa e corso Vittorio Emanuele. In periferia l'attivazione è rinviata: lì per ora si parcheggia gratis. Si paga dal lunedì al sabato, festivi esclusi, con parchimetro o app.",
+    "costo": "1 € l'ora (minimo 0,50 € per 30 minuti)",
+    "dataInizio": "2026-09-09",
+    "stato": "in corso",
+    "fonti": [
+      {
+        "nome": "Metropolisweb",
+        "url": "https://www.metropolisweb.it/2026/09/08/torre-del-greco-ripartono-le-strisce-blu-solo-centro-esclusa-ora-la-periferia/"
+      },
+      {
+        "nome": "TV City",
+        "url": "https://www.tvcity.it/torre-del-greco-oggi-riparte-il-servizio-di-sosta-a-pagamento/"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "titolo": "Strisce blu estese ad altre 18 strade",
+    "categoria": "strisce blu",
+    "zona": "18 strade, tra cui corso Umberto I e corso Garibaldi",
+    "lat": 40.7857,
+    "lng": 14.3701,
+    "descrizione": "Dopo il centro, la sosta a pagamento si allarga a corso Umberto I, via Beato Vincenzo Romano, prima e seconda traversa Vittorio Veneto, via Madonna del Principio, via Marconi, via Maresca, via Monsignor Felice Romano, piazza Luigi Palomba, piazzale Ferrovia, viale Ungheria, piazzale della Repubblica, via Vittorio Veneto, parcheggio Santissima Trinità, via Armando Diaz, via Cristoforo Colombo, corso Garibaldi e via Fontana. Stesse tariffe e orari delle strade del centro.",
+    "costo": "1 € l'ora (minimo 0,50 € per 30 minuti)",
+    "dataInizio": "2026-09-11",
+    "stato": "in corso",
+    "fonti": [
+      {
+        "nome": "Terronian Magazine",
+        "url": "http://www.terronianmagazine.com/ampliato-il-numero-delle-strade-su-cui-e-attivo-il-servizio-di-sosta-a-pagamento/"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "titolo": "Semaforo all'incrocio tra via Benedetto Croce, via Tironi e via De Nicola",
+    "categoria": "semafori",
+    "zona": "Via Benedetto Croce / via Tironi / via De Nicola",
+    "lat": 40.7955,
+    "lng": 14.3786,
+    "descrizione": "Primo dei quattro nuovi impianti semaforici, su un incrocio noto per gli incidenti. Previsto anche un salvagente pedonale rialzato. A luglio i lavori erano in corso, con fine prevista in due settimane.",
+    "costo": null,
+    "dataInizio": null,
+    "stato": "in corso",
+    "fonti": [
+      {
+        "nome": "Il Mattino",
+        "url": "https://www.ilmattino.it/napoli/area_metropolitana/torre_del_greco_nuovi_semafori_sicurezza_pedoni-9677539.html"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "titolo": "Semaforo tra via Marconi, via Vittorio Veneto e Circumvallazione",
+    "categoria": "semafori",
+    "zona": "Via Guglielmo Marconi / via Vittorio Veneto / via Circumvallazione",
+    "lat": 40.794,
+    "lng": 14.372,
+    "descrizione": "Uno dei quattro impianti semaforici che il Comune prevede di attivare entro ottobre.",
+    "costo": null,
+    "dataInizio": null,
+    "stato": "annunciato",
+    "fonti": [
+      {
+        "nome": "Il Mattino",
+        "url": "https://www.ilmattino.it/napoli/area_metropolitana/torre_del_greco_nuovi_semafori_sicurezza_pedoni-9677539.html"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "titolo": "Semaforo tra via Purgatorio e Circumvallazione",
+    "categoria": "semafori",
+    "zona": "Via Purgatorio / via Circumvallazione",
+    "lat": 40.7849,
+    "lng": 14.3736,
+    "descrizione": "Uno dei quattro impianti semaforici che il Comune prevede di attivare entro ottobre.",
+    "costo": null,
+    "dataInizio": null,
+    "stato": "annunciato",
+    "fonti": [
+      {
+        "nome": "Il Mattino",
+        "url": "https://www.ilmattino.it/napoli/area_metropolitana/torre_del_greco_nuovi_semafori_sicurezza_pedoni-9677539.html"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "titolo": "Semaforo in via Cappella degli Orefici",
+    "categoria": "semafori",
+    "zona": "Via Cappella degli Orefici",
+    "lat": 40.7836,
+    "lng": 14.4113,
+    "descrizione": "Uno dei quattro impianti semaforici che il Comune prevede di attivare entro ottobre.",
+    "costo": null,
+    "dataInizio": null,
+    "stato": "annunciato",
+    "fonti": [
+      {
+        "nome": "Il Mattino",
+        "url": "https://www.ilmattino.it/napoli/area_metropolitana/torre_del_greco_nuovi_semafori_sicurezza_pedoni-9677539.html"
+      }
+    ]
+  }
+]

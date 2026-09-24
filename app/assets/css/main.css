@@ -1,0 +1,32 @@
+/* palette: corallo (accento) e blu del golfo */
+:root {
+  --corallo: #e0604f;
+  --corallo-scuro: #b8433a;
+  --golfo: #2f6f8f;
+  --golfo-scuro: #1f4e66;
+  --cielo: #eaf2f7;
+  --testo: #1f2937;
+  --testo-secondario: #6b7280;
+  --sfondo: #f3f4f6;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  line-height: 1.5;
+  color: var(--testo);
+  background-color: var(--sfondo);
+}
+
+h1,
+h2,
+h3,
+p {
+  margin: 0;
+}
